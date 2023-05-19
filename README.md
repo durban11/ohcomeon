@@ -19,4 +19,6 @@ I don't own whats on the other end of these links its just a collection
 
 <a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif" target="_blank">I am out</a>
 
-<a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif target=_blank">Lego toss</a>
+<a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif" target="_blank">Lego toss</a>
+
+<a href="https://www.youtube.com/watch?v=y8OnoxKotPQ" target="_blank">we are blocked</a>
