@@ -15,8 +15,6 @@ I don't own whats on the other end of these links its just a collection
 
 <a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif" target="_blank">Ape Planet</a>
 
-<a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif" target="_blank">Office MeldDown</a>
-
 <a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif" target="_blank">I am out</a>
 
 <a href="https://media.giphy.com/media/4qUiATsEPYsw0/giphy.gif" target="_blank">Lego toss</a>
