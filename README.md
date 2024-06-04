@@ -20,3 +20,5 @@ I don't own whats on the other end of these links its just a collection
 <a href="https://giphy.com/gifs/bug-UAUtB4Oi9U4EM" target="_blank">just one spider</a>
 
 <a href="https://giphy.com/gifs/thegoodplace-nbc-the-good-place-KeWcgrh6Beq4BrqZUS" target="_blank">the good place grin</a>
+
+<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo2cDgyNWg3aWU1c2l6eWhpZnZyMzkzbnF1ejZnNm5haW5yaXRnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EtB1yylKGGAUg/giphy.gif" target="_blank">Panda Smash</a>
